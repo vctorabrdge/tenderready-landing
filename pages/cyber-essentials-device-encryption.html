@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cyber Essentials device encryption: BitLocker/FileVault evidence for SMEs</title>
+  <meta name="description" content="Device encryption for Cyber Essentials: what you need to enable, common pitfalls, and the simplest evidence to collect for UK SMEs." />
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="wrap header">
+    <div class="brand">
+      <div class="logo">TR</div>
+      <div>
+        <div class="name">TenderReady</div>
+        <div class="tag">Working title</div>
+      </div>
+    </div>
+    <nav class="nav">
+      <a href="/">Home</a>
+      <a href="/pages/cyber-essentials-checklist.html">Checklist</a>
+      <a href="/pages/cyber-essentials-gap-analysis.html">Gap analysis</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="hero" style="padding-top:32px">
+      <h1>Device encryption for Cyber Essentials: what to do and what to screenshot</h1>
+      <p class="lede">For UK SMEs, device encryption is usually easy to implement but surprisingly easy to fail on evidence. The fix: standardise the baseline and capture proof once.</p>
+      <div class="badges">
+        <span class="badge">bitlocker</span>
+        <span class="badge">filevault</span>
+        <span class="badge">evidence</span>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="card">
+        <h2>What “good” looks like</h2>
+        <ul>
+          <li>All company laptops/desktops have disk encryption enabled (BitLocker/FileVault).</li>
+          <li>Recovery keys are stored securely (often in M365/Intune or an MSP system).</li>
+          <li>New devices are provisioned with encryption as standard (baseline).</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Common pitfalls</h2>
+      <div class="grid">
+        <div class="card"><h3>Mixed fleet</h3><p>Some machines are encrypted, others aren’t (especially older laptops).</p></div>
+        <div class="card"><h3>No recovery key story</h3><p>Encryption is on, but nobody can explain where recovery keys are held.</p></div>
+        <div class="card"><h3>“One screenshot” fallacy</h3><p>You have proof for one device, but can’t show it’s the standard.</p></div>
+        <div class="card"><h3>Bring-your-own devices</h3><p>BYOD and mobiles need a clear policy boundary (what’s allowed, what isn’t).</p></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Minimum viable evidence pack</h2>
+      <div class="card">
+        <ul>
+          <li>Screenshot: encryption enabled on a representative Windows device (BitLocker)</li>
+          <li>Screenshot: encryption enabled on a representative Mac device (FileVault)</li>
+          <li>Short note: how you ensure new devices follow the baseline</li>
+          <li>Short note: where recovery keys are stored (or MSP confirmation)</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="callout">
+        <strong>Want this automated?</strong>
+        <div class="small">We’re building a tool that prompts the right evidence per control and exports a tender-ready handoff pack for your MSP/assessor.</div>
+        <div class="ctaRow" style="margin-bottom:0">
+          <a class="btn primary" href="mailto:rob@leanspace.co?subject=Early%20access%3A%20Device%20Encryption%20Evidence%20Pack">Get early access</a>
+          <a class="btn" href="/pages/cyber-essentials-cost.html">Read: cost</a>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer wrap">
+      <div>© <span id="y"></span> TenderReady (working title)</div>
+      <div class="small">Back to <a href="/">home</a></div>
+    </footer>
+  </main>
+
+  <script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+</body>
+</html>
