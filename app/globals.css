@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg:#0b1020;--card:#111a33;--text:#e8ecff;--muted:#b7c0ff;--line:rgba(255,255,255,.12);
+  --accent:#7c5cff;--accent2:#29c3ff;--btn:#1b2550;--shadow:0 12px 30px rgba(0,0,0,.35)
+}
+html,body{margin:0;padding:0;background:radial-gradient(1200px 600px at 20% 0%, rgba(124,92,255,.25), transparent 55%), radial-gradient(1000px 600px at 90% 10%, rgba(41,195,255,.18), transparent 55%), var(--bg); color:var(--text)}

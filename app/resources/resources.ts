@@ -1,0 +1,17 @@
+export const resources = [
+  { href: '/pages/index.html', title: 'All articles (HTML index)', keyword: 'resources hub' },
+  { href: '/pages/cyber-essentials-checklist.html', title: 'Cyber Essentials checklist (UK): practical steps + evidence prompts', keyword: 'cyber essentials checklist' },
+  { href: '/pages/cyber-essentials-questions.html', title: 'Cyber Essentials self-assessment questions explained (plain English)', keyword: 'cyber essentials questionnaire' },
+  { href: '/pages/cyber-essentials-gap-analysis.html', title: 'Cyber Essentials gap analysis: how to run one and what evidence you need', keyword: 'cyber essentials gap analysis' },
+  { href: '/pages/cyber-essentials-cost.html', title: 'Cyber Essentials cost (UK): certification, assessor, and hidden time costs', keyword: 'cyber essentials certification cost' },
+  { href: '/pages/cyber-essentials-plus-cost.html', title: 'Cyber Essentials Plus cost: what changes vs CE and what to budget', keyword: 'cyber essentials plus cost' },
+  { href: '/pages/construction.html', title: 'Cyber Essentials for construction & trades: tender-ready evidence without the chaos', keyword: 'construction / tenders' },
+  { href: '/pages/cyber-essentials-requirements.html', title: 'Cyber Essentials requirements (UK): plain-English checklist for SMEs', keyword: 'cyber essentials requirements' },
+  { href: '/pages/cyber-essentials-plus-requirements.html', title: 'Cyber Essentials Plus requirements: what changes vs CE (and how to prep)', keyword: 'cyber essentials plus requirements' },
+  { href: '/pages/cyber-essentials-self-assessment.html', title: 'Cyber Essentials self assessment: how to pass without guesswork', keyword: 'cyber essentials self assessment' },
+  { href: '/pages/cyber-essentials-assessor.html', title: 'Cyber Essentials assessor: what they do, what they need, and how to save time', keyword: 'cyber essentials assessor' },
+  { href: '/pages/cyber-essentials-renewal.html', title: 'Cyber Essentials renewal: when to renew, what changes, and how to stay ready', keyword: 'cyber essentials renewal' },
+  { href: '/pages/cyber-essentials-training.html', title: 'Cyber Essentials training for SMEs: what’s required vs what’s sensible', keyword: 'cyber essentials training' },
+  { href: '/pages/cyber-essentials-controls.html', title: 'Cyber Essentials controls: the 5 areas explained for busy SMEs', keyword: 'cyber essentials controls' },
+  { href: '/pages/cyber-essentials-password-policy.html', title: 'Cyber Essentials password policy: practical rules SMEs can actually follow', keyword: 'cyber essentials password policy' },
+];
