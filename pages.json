@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "slug": "index",
+      "title": "Cyber Essentials for tender deadlines — evidence pack + gap report",
+      "primaryKeyword": "cyber essentials certification",
+      "notes": "Conversion-first landing, tender-driven construction angle."
+    },
+    {
+      "slug": "cyber-essentials-checklist",
+      "title": "Cyber Essentials checklist (UK): practical steps + evidence prompts",
+      "primaryKeyword": "cyber essentials checklist",
+      "notes": "Winnable intent vs head term; build trust, capture leads."
+    },
+    {
+      "slug": "cyber-essentials-questions",
+      "title": "Cyber Essentials self-assessment questions explained (plain English)",
+      "primaryKeyword": "cyber essentials questionnaire",
+      "notes": "Target questions intent; link to checklist + gap analysis."
+    },
+    {
+      "slug": "cyber-essentials-gap-analysis",
+      "title": "Cyber Essentials gap analysis: how to run one and what evidence you need",
+      "primaryKeyword": "cyber essentials gap analysis",
+      "notes": "Position as the 'handoff pack' output."
+    },
+    {
+      "slug": "cyber-essentials-cost",
+      "title": "Cyber Essentials cost (UK): certification, assessor, and hidden time costs",
+      "primaryKeyword": "cyber essentials certification cost",
+      "notes": "High-intent; funnel to early access."
+    },
+    {
+      "slug": "cyber-essentials-plus-cost",
+      "title": "Cyber Essentials Plus cost: what changes vs Cyber Essentials and what to budget",
+      "primaryKeyword": "cyber essentials plus cost",
+      "notes": "High-intent; explain difference; position evidence pack usefulness."
+    },
+    {
+      "slug": "construction",
+      "title": "Cyber Essentials for construction & trades: tender-ready evidence without the chaos",
+      "primaryKeyword": "cyber essentials certification",
+      "notes": "Vertical page; tender examples; link to checklist/cost."
+    }
+  ]
+}
