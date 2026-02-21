@@ -36,8 +36,11 @@ export default function Home() {
           >
             Get early access
           </a>
-          <a className="rounded-xl border border-white/10 bg-[color:var(--btn)] px-4 py-3 font-semibold" href="#pack">
-            See what’s in the handoff pack
+          <a
+            className="rounded-xl border border-white/10 bg-[color:var(--btn)] px-4 py-3 font-semibold"
+            href="/pages/handoff-pack.html"
+          >
+            See a sample handoff pack
           </a>
         </div>
 
