@@ -1,6 +1,7 @@
 export const resources = [
   { href: '/pages/index.html', title: 'All articles (HTML index)', keyword: 'resources hub' },
   { href: '/pages/handoff-pack.html', title: 'Sample handoff pack (outline): gap report + evidence index', keyword: 'msp / assessor handoff' },
+  { href: '/mvp', title: 'Demo: Evidence Pack Builder (no login)', keyword: 'cyber essentials evidence pack' },
   { href: '/pages/cyber-essentials-checklist.html', title: 'Cyber Essentials checklist (UK): practical steps + evidence prompts', keyword: 'cyber essentials checklist' },
   { href: '/pages/cyber-essentials-questions.html', title: 'Cyber Essentials self-assessment questions explained (plain English)', keyword: 'cyber essentials questionnaire' },
   { href: '/pages/cyber-essentials-gap-analysis.html', title: 'Cyber Essentials gap analysis: how to run one and what evidence you need', keyword: 'cyber essentials gap analysis' },

@@ -42,6 +42,12 @@ export default function Home() {
           >
             See a sample handoff pack
           </a>
+          <Link
+            className="rounded-xl border border-white/10 bg-white/5 px-4 py-3 font-semibold"
+            href="/mvp"
+          >
+            Try the demo (evidence pack builder)
+          </Link>
         </div>
 
         <div className="mt-6 flex flex-wrap gap-2 text-xs text-[color:var(--muted)]">
